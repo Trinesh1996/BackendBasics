@@ -1,0 +1,23 @@
+{
+  "name": "node-first-steps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trinesh1996/firstNodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trinesh1996/firstNodeJS/issues"
+  },
+  "homepage": "https://github.com/Trinesh1996/firstNodeJS#readme",
+  "dependencies": {
+    "figlet": "^1.2.0"
+  }
+}
